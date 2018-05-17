@@ -1,4 +1,5 @@
 LDFLAG = -ltensorflow
+
 run: a.out
 	./a.out
 
